@@ -1,0 +1,70 @@
+.anaSayfa{
+    border-style: solid;
+    position: fixed;
+    height: 550px;
+    padding-left: 360px;
+    margin-left: 35%;
+    border-width: 1px;
+
+}
+
+#avensis{
+    position: absolute;
+    height: 350px;
+    width: 360px;
+    right: 3px;
+}
+
+.image{
+    border-style: none;
+    position: absolute;
+    height: 350px;
+    width: 360px;
+    right: -3px;
+}
+
+.icerik{
+    border-style: solid;
+    position: absolute;
+    height: 130px;
+    width: 360px;
+    margin-top: 350px;
+    right: -1px;
+    border-width: 1px;
+}
+
+.buton{
+    border-style: none;
+    position: absolute;
+    height: 70px;
+    width: 360px;
+    margin-top: 480px;
+    right: -1px;
+    border-width: 1px;
+}
+
+#acıklama{
+    position: fixed;
+    padding-left: 10px;
+}
+
+#link{
+    position: fixed;
+    padding-top: 35px;
+    padding-left: 10px;
+    font-size: 12px;
+}
+
+#left-arrow{
+    position: relative;
+    padding-top: 25px;
+    padding-left: 10px;
+    width: 30px;
+}
+
+#right-arrow{
+    position: relative;
+    padding-top: 25px;
+    padding-left: 13px;
+    width: 30px;
+}
